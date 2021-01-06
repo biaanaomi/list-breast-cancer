@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img  width="350" height="350" src="https://avatars2.githubusercontent.com/u/16929016?s=500&v=4" width="350" alt="React Brasil">
+  <img  width="350" height="350" src="https://miro.medium.com/max/1200/1*2QVeenJ2bdiA_9N8qvPiPA.png" width="350" alt="Breat Cancer">
 	<br>
 	<br>
 	<p>
