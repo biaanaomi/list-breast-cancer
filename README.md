@@ -14,20 +14,15 @@
 </div>
 <br/>
 
-Repositório responsável em listar banco de dados disponíveis para imagens de cancêr de mama!
+Repositório responsável em listar bancos de dados disponíveis para imagens de cancêr de mama!
 
 ## Datasets
 Nome | País | Quantidade de imagens | Especificação relacionada
 :------------: | ------------------------ | ------------ | -
-[Accenture](https://www.accenture.com/br-pt/careers/recife) | São Paulo, SP<br />Recife, PE | Redux, React Native
-[ACERTA! Crédito Fácil](https://acertapromotora.com.br) | Santo Cristo, RS<br />| Typescript, Context API, Hooks, Atomic Design, Styled Components, Reach Router, Formik, Testing Library, Cypress, ESLint, Husky, Prettier
-[Agfa HealthCare Brasil](https://global.agfahealthcare.com/brazil)| Recife, PE | Redux, React Native, Redux Form
-[Agilize Contabilidade Online](https://www.agilize.com.br/)| Salvador, BA | Redux, Redux Saga, Redux-Thunk, Redux Form, Jest, Styled Components, Router, Enzyme, Webpack, Storybook, Reselect
-[Agrotis](https://www.agrotis.com)| Curitiba, PR | Redux, Redux-Thunk, Styled Components, Storybook, Material-UI
-[Agrotools](https://www.agrotools.com.br)| São José dos Campos, SP | React, React Native
-[allya](https://www.allya.com.br/) | São Paulo, SP | Redux, React Native
-[Alumy](https://alumy.com) | Sorocaba, SP | Redux, Redux Form, React Native
-[AMARO](https://amaro.com/) | São Paulo, SP | Redux, RxJS
-[Americanas](https://www.americanas.com.br/) | São Paulo, SP |
-[ANTIDOTO DESIGN E TECNOLOGIA](https://www.antidotodesign.com.br/) | São Paulo, SP | React-Native, Redux, Feathersjs, Mongodb, Gunjs, Meteor
-[Ao Cubo](https://aocubo.com) | São Paulo, SP | React Native, Redux, Next, GraphQL | 🏢
+[Mammo](https://www.mammoimage.org/databases/) | São Paulo, SP<br />Recife, PE | Redux, React Native
+[Kaggle - Breast Cancer Wisconsin](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) | Santo Cristo, RS<br />| Typescript, Context API, Hooks, Atomic Design, Styled Components, Reach Router, Formik, Testing Library, Cypress, ESLint, Husky, Prettier
+[CBIS-DDSM](https://wiki.cancerimagingarchive.net/display/Public/CBIS-DDSM)| Recife, PE | Redux, React Native, Redux Form
+[NIH - Data Types Collected by TCGA](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga/using-tcga/types)| Salvador, BA | Redux, Redux Saga, Redux-Thunk, Redux Form, Jest, Styled Components, Router, Enzyme, Webpack, Storybook, Reselect
+[Angel Cruz-Roa](https://sites.google.com/site/aacruzr/image-datasets)| Curitiba, PR | Redux, Redux-Thunk, Styled Components, Storybook, Material-UI
+[Breast Ultrasound Images Dataset (Dataset BUSI)](https://scholar.cu.edu.eg/?q=afahmy/pages/dataset)| São José dos Campos, SP | React, React Native
+[Article - Dataset of breast ultrasound images](https://www.sciencedirect.com/science/article/pii/S2352340919312181) | São Paulo, SP | Redux, React Native
