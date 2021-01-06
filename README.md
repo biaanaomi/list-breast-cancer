@@ -17,8 +17,8 @@
 Repositório responsável em listar bancos de dados disponíveis para imagens de cancêr de mama!
 
 ## Datasets
-Nome | País | Tipo imagem | Quantidade de imagens | Especificação relacionada
-:------------: | ------------ | ------------------------ | ------------ | -
+Nome | País | Quantidade de imagens | Especificação relacionada
+:------------: | ------------------------ | ------------ | -
 [Angel Cruz-Roa](https://sites.google.com/site/aacruzr/image-datasets)| Lista com vários datasets
 [CBIS-DDSM](https://wiki.cancerimagingarchive.net/display/Public/CBIS-DDSM)| Stanford, Estados Unidos  | 2,620 | Normal, benign, and malignant cases with verified pathology information
 [Mammo](https://www.mammoimage.org/databases/) | Stanford, Estados Unidos | 20,000
