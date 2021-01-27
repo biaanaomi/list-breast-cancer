@@ -25,6 +25,8 @@ Nome | Tipo | Quantidade de imagens | Especificação relacionada
 [Kaggle - Breast Cancer Wisconsin](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) | Diagnosis | 357 benign, 212 malignant | Predict whether the cancer is benign or malignant. Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
 [The mini-MIAS database of mammograms](http://peipa.essex.ac.uk/info/mias.html)| Mammography | 322  |  Class of abnormality present. Class of abnormality present. Severity of abnormality; Licence agreement 
 [USF-DDSM: Digital Database for Screening Mammography](http://www.eng.usf.edu/cvprg/)| Mammography | 2620 cases | A case consists of between 6 and 10 files. Normal, cancer, benign and benign without callback
+[Lapimo BancoWeb](http://lapimo.sel.eesc.usp.br/lapimo/drupal/?q=node/8)| Mammography | 1.436 | Imagens, testes e avaliação comparativa de esquemas computadorizados de auxilio ao diagnóstico (CADs). A base contem imagens de vários hospitais, com grande variedade de laudos
+[Lapimo BancoWeb](http://www.ic.uff.br/~aconci/mam/frameex1.htm)| Mammography | ~70 cases | Benignos e Malignos. As imagens não são pré-processadas ou comprimidas. 
 
 
 ## Datasets Genomic
