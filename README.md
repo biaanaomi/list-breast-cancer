@@ -35,19 +35,19 @@ Nome | Tipo | Quantidade de imagens | Especificação relacionada
 :------------: | ------------------------ | ------------ | -
 [NIH - Data Types Collected by TCGA](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga/using-tcga/types)| Todos os cânceres | 20,000 tumor and normal samples
 
-##Comando para instalar arquivos, diretórios inteiro html
+**Comando para instalar arquivos, diretórios inteiro html**
 
-'''wget -r -np http://www.ic.uff.br/~aconci/mam/'''
+```wget -r -np http://www.ic.uff.br/~aconci/mam/```
 
-Ele fará o download de todos os arquivos e subpastas no diretório ddd
+Ele fará o download de todos os arquivos e subpastas
 -r : recursivamente
 -np: não vai para diretórios superiores
 
-##Comandos para usar ftp e acessar diretorios
+**Comandos para usar ftp e acessar diretorios**
 
 ```
 ncftp figment.csee.usf.edu
-   cd pub/DDSM/cases/cancers/cancer_03
-   get -R case1000
+cd pub/DDSM/cases/cancers/cancer_03
+get -R case1000
 ```
-Ele fará conexão/login com ftp, acessar a pasta de interesse e obter o diretorio 
+Ele fará conexão/login com ftp, acessar a pasta de interesse e download do diretorio 
