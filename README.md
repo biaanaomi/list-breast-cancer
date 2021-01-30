@@ -45,9 +45,9 @@ Ele fará o download de todos os arquivos e subpastas no diretório ddd
 
 ##Comandos para usar ftp e acessar diretorios
 
-'''
+```
 ncftp figment.csee.usf.edu
    cd pub/DDSM/cases/cancers/cancer_03
    get -R case1000
-'''
+```
 Ele fará conexão/login com ftp, acessar a pasta de interesse e obter o diretorio 
