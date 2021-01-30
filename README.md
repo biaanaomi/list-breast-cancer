@@ -35,6 +35,9 @@ Nome | Tipo | Quantidade de imagens | Especificação relacionada
 :------------: | ------------------------ | ------------ | -
 [NIH - Data Types Collected by TCGA](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga/using-tcga/types)| Todos os cânceres | 20,000 tumor and normal samples
 
+
+
+
 **Comando para instalar arquivos, diretórios inteiro html**
 
 ```wget -r -np http://www.ic.uff.br/~aconci/mam/```
